@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9ddf63051ce9d6a418708b06522db968
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelsData: {fileID: 11400000, guid: 5cd6c7d0a78583f40aff3318f9f587ad, type: 2}
+  - rcc_SceneManager: {instanceID: 0}
+  - rccSettingsAsset: {instanceID: 0}
+  - textMeshPro: {instanceID: 0}
+  - RotationXMultiplyer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

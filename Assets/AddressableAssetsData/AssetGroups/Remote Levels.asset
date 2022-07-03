@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Remote Levels
+  m_EditorClassIdentifier: 
+  m_GroupName: Remote Levels
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f4656a57c0efb544ba20e4b437bc9446
+  m_SerializeEntries:
+  - m_GUID: b216712bbb261bd4194ff59504e35c98
+    m_Address: Stage 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e952736e22fe9244183aa035b359489f
+    m_Address: Stage 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85d4451e1c9b204448e81473e3990295
+    m_Address: Stage 4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c59c14e9cc1e41a41877c14d95b4216b
+    m_Address: Stage 5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc57f1648b5c7cd40858782d02daeddb
+    m_Address: Stage 6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 32144a0d7a0174345a079485002ab911
+    m_Address: Stage 7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e6670dc1d1a53b14ea8f9be839299478
+    m_Address: Stage 8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c284664b8ae93774a9f2a492523e107d
+    m_Address: Stage 9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c9347299fd11821469a16fe8c0dc7743
+    m_Address: Stage 10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e732df2ee930e374cb6dddb1decc044e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0b3fad768ec75134f86335b131425301, type: 2}
+    - {fileID: 11400000, guid: cbfd71d845653df4f9da0393a13ed66e, type: 2}

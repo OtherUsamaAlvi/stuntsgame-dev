@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4417677836693464546
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4417677836693464544}
+  - component: {fileID: 4417677836693464547}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4417677836693464544
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417677836693464546}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 12.893784, y: 13.070969, z: -81.22179}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4417677836693464547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4417677836693464546}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90457faeb1f4a4a4aad967cb96738eb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: ExplodeCar
+    clip: {fileID: 8300000, guid: fa15a3659f80025439d4c518131e345d, type: 3}
+    volume: 0.531
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+    isMusic: 0
+  - name: Theme
+    clip: {fileID: 8300000, guid: c568fa6c712dd564dbbb811d29446da1, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 1
+    isMusic: 1
+  - name: CheckPoint
+    clip: {fileID: 8300000, guid: 1bd8f3a8c6c45b444a93527069231600, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+    isMusic: 0
+  - name: MonsterBounce1
+    clip: {fileID: 8300000, guid: 6522906a026667a499ae36ffd1257189, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+    isMusic: 0
+  - name: MonsterBounce2
+    clip: {fileID: 8300000, guid: f759eb132e0467247b84ed8a2dfa011c, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+    isMusic: 0
+  - name: CountDown
+    clip: {fileID: 8300000, guid: c9c1c174d0b16d54493faad2e5f8aba3, type: 3}
+    volume: 1
+    pitch: 0.852
+    source: {fileID: 0}
+    loop: 0
+    isMusic: 0
+  - name: CountDownEnd
+    clip: {fileID: 8300000, guid: 1bd8f3a8c6c45b444a93527069231600, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+    isMusic: 0
+  - name: WoodenBox1
+    clip: {fileID: 8300000, guid: f0be464053b5ca54993b737d189c8707, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+    isMusic: 0
+  - name: WoodenBox2
+    clip: {fileID: 8300000, guid: 89b0e7ad3e563ca4e9a7b50e9f138651, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+    isMusic: 0
+  - name: Watermelon
+    clip: {fileID: 8300000, guid: 4dbc37dbc329228438fa55d6fa5e683b, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+    isMusic: 0
+  - name: SpeedBoost
+    clip: {fileID: 8300000, guid: cf268ced263e2f54daee306aec0d9d6e, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+    isMusic: 0
+  - name: BottleCrush
+    clip: {fileID: 8300000, guid: ab5da7dec58c04e40a29fef7d0170b22, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+    isMusic: 0
+  - name: BowlingPin
+    clip: {fileID: 8300000, guid: 73c6a0f554bd3f540b1b192edb8249f4, type: 3}
+    volume: 1
+    pitch: 0.883
+    source: {fileID: 0}
+    loop: 0
+    isMusic: 0
+  - name: EngineStart
+    clip: {fileID: 8300000, guid: 8d3ddfbc69660b342b48f88b496dedee, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+    isMusic: 0
+  - name: WaterSplash
+    clip: {fileID: 8300000, guid: 3924cf5e4b887024e8076661c4a745ff, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+    isMusic: 0
+  - name: MenuMusic
+    clip: {fileID: 8300000, guid: 0a7ede9a8838cd14292df83d272031e0, type: 3}
+    volume: 0.6
+    pitch: 1
+    source: {fileID: 0}
+    loop: 1
+    isMusic: 1
+  - name: GameStartSpeedingSound
+    clip: {fileID: 8300000, guid: fbadda88a3e86954ebeef9284a7cfd5c, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+    isMusic: 0
+  - name: NosSound
+    clip: {fileID: 8300000, guid: b9528615652777e40ad50c17ecf3846c, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 1
+    isMusic: 0
+  - name: CoinPurchase
+    clip: {fileID: 8300000, guid: 865af8af1fd4ae943b32d8f4b747445b, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+    isMusic: 0
+  - name: Winning
+    clip: {fileID: 8300000, guid: edfa6d8d8e076154fa4b7e41405e6567, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+    isMusic: 0

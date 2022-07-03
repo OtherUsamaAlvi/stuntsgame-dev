@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Remote Textures
+  m_EditorClassIdentifier: 
+  m_GroupName: Remote Textures
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 35fa86a17eac5c94abee6bdc0e136e0f
+  m_SerializeEntries:
+  - m_GUID: 32483d0bcebc766448ceb97153899c34
+    m_Address: greentiretexture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b844faece10300345a77ef3c1855edec
+    m_Address: redtiretexture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f2c95e1d96cfb4c43acea5a453db52bb
+    m_Address: bluetiretexture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01100137dd9a1b342ad4cce111f72373
+    m_Address: whitetiretexture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e732df2ee930e374cb6dddb1decc044e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f7270e08775a3774a895d75681543b27, type: 2}
+    - {fileID: 11400000, guid: ffac9b6ffd2f94e42ac19558ce83215f, type: 2}

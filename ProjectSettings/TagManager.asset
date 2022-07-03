@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerVehicle
+  - Obstacle
+  - CarTrigger
+  - Pickup
+  - spikes
+  - Bullet01
+  - Bullet02
+  - Bullet03
+  - SwingObstacle
+  - LeftBoxingGlove
+  - PlateObstacle
+  - Saw
+  - ThornObstacle
+  - RotatingSawObstacle
+  - Spikes
+  - HammerObstacle
+  - AxeObstacle
+  - CylinderObstacle
+  - SpeedBoost
+  - RightBoxingGlove
+  - Bolt
+  - CircleRamp
+  - Area0
+  - Area1
+  - Area2
+  - Area3
+  - Area4
+  - Area5
+  - Area6
+  - Area7
+  - Area8
+  - Fence
+  - AreaOfEffect
+  - Collectables
+  - StartLine
+  - HuggyStartRun
+  - Dolphan
+  - Water
+  - NosParticles
+  - Huggy
+  - HuggyInFront
+  - respawnWhenStuck
+  - WoodenBox
+  - Watermelon
+  - Barrel
+  - checkpoint
+  - Bottle
+  - BowlingPin
+  - Brake
+  - Gas
+  - RccPivotCamera
+  - FinishLine
+  - rccCanvas
+  - oldCanvas
+  - inGameCanvas
+  - finishMenu
+  - pauseMenu
+  - inGameMenu
+  - speed
+  - timer
+  - 3
+  - 2
+  - 1
+  - Go
+  - HuggyStopPoint
+  - Walls
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - SideBArs
+  - Water
+  - UI
+  - Monsters
+  - 
+  - RCC
+  - PP
+  - PlayerVehicle
+  - Obstacle
+  - WheelCollider
+  - Distructable Props
+  - overlay
+  - Walls
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

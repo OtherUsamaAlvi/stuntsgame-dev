@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 96286a64e7d54044587bcc2a5cffafe5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelsData: {fileID: 11400000, guid: 5cd6c7d0a78583f40aff3318f9f587ad, type: 2}
+  - rotatingCarController: {instanceID: 0}
+  - rcc_SceneManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

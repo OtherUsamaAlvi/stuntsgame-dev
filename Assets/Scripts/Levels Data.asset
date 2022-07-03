@@ -1,0 +1,326 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88f5a2e05399b7941985e9343d276490, type: 3}
+  m_Name: Levels Data
+  m_EditorClassIdentifier: 
+  careerMode:
+  - levelName: Huggy Race
+    firstName: Level
+    secondName: 1
+    levelDescription: 
+    sceneName: 
+    trophyName: 
+    levelNumber: 1
+    requiredCar: 0
+    goldSeconds: 50
+    silverSeconds: 70
+    reward: 0
+    goldReward: 500
+    silverReward: 200
+    bronzeReward: 100
+    isLocked: 0
+    isCompleted: 0
+    shortReason: 
+    longReason: 
+    shortDescription: 
+  - levelName: Rainy Season
+    firstName: Level
+    secondName: 2
+    levelDescription: 
+    sceneName: 
+    trophyName: 
+    levelNumber: 2
+    requiredCar: 0
+    goldSeconds: 50
+    silverSeconds: 70
+    reward: 0
+    goldReward: 500
+    silverReward: 200
+    bronzeReward: 100
+    isLocked: 1
+    isCompleted: 0
+    shortReason: 
+    longReason: 
+    shortDescription: 
+  - levelName: Cute Monsters
+    firstName: 
+    secondName: 
+    levelDescription: 
+    sceneName: 
+    trophyName: 
+    levelNumber: 3
+    requiredCar: 0
+    goldSeconds: 50
+    silverSeconds: 70
+    reward: 0
+    goldReward: 500
+    silverReward: 200
+    bronzeReward: 100
+    isLocked: 1
+    isCompleted: 0
+    shortReason: 
+    longReason: 
+    shortDescription: 
+  - levelName: Obstacles
+    firstName: 
+    secondName: 
+    levelDescription: 
+    sceneName: 
+    trophyName: 
+    levelNumber: 4
+    requiredCar: 1
+    goldSeconds: 65
+    silverSeconds: 90
+    reward: 0
+    goldReward: 800
+    silverReward: 400
+    bronzeReward: 200
+    isLocked: 1
+    isCompleted: 0
+    shortReason: 
+    longReason: 
+    shortDescription: 
+  - levelName: Spiders
+    firstName: 
+    secondName: 
+    levelDescription: 
+    sceneName: 
+    trophyName: 
+    levelNumber: 5
+    requiredCar: 1
+    goldSeconds: 55
+    silverSeconds: 70
+    reward: 0
+    goldReward: 800
+    silverReward: 400
+    bronzeReward: 200
+    isLocked: 1
+    isCompleted: 0
+    shortReason: 
+    longReason: 
+    shortDescription: 
+  - levelName: Bowling Alley
+    firstName: 
+    secondName: 
+    levelDescription: 
+    sceneName: 
+    trophyName: 
+    levelNumber: 6
+    requiredCar: 2
+    goldSeconds: 40
+    silverSeconds: 30
+    reward: 0
+    goldReward: 1000
+    silverReward: 500
+    bronzeReward: 300
+    isLocked: 1
+    isCompleted: 0
+    shortReason: 
+    longReason: 
+    shortDescription: 
+  - levelName: Fog
+    firstName: 
+    secondName: 
+    levelDescription: 
+    sceneName: 
+    trophyName: 
+    levelNumber: 7
+    requiredCar: 2
+    goldSeconds: 60
+    silverSeconds: 70
+    reward: 0
+    goldReward: 1000
+    silverReward: 500
+    bronzeReward: 300
+    isLocked: 1
+    isCompleted: 0
+    shortReason: 
+    longReason: 
+    shortDescription: 
+  - levelName: Slippery
+    firstName: 
+    secondName: 
+    levelDescription: 
+    sceneName: 
+    trophyName: 
+    levelNumber: 8
+    requiredCar: 3
+    goldSeconds: 60
+    silverSeconds: 70
+    reward: 0
+    goldReward: 1200
+    silverReward: 600
+    bronzeReward: 300
+    isLocked: 1
+    isCompleted: 0
+    shortReason: 
+    longReason: 
+    shortDescription: 
+  - levelName: Infinity
+    firstName: 
+    secondName: 
+    levelDescription: 
+    sceneName: 
+    trophyName: 
+    levelNumber: 9
+    requiredCar: 3
+    goldSeconds: 120
+    silverSeconds: 180
+    reward: 0
+    goldReward: 1200
+    silverReward: 600
+    bronzeReward: 300
+    isLocked: 1
+    isCompleted: 0
+    shortReason: 
+    longReason: 
+    shortDescription: 
+  - levelName: Time Warp
+    firstName: 
+    secondName: 
+    levelDescription: 
+    sceneName: 
+    trophyName: 
+    levelNumber: 10
+    requiredCar: 4
+    goldSeconds: 120
+    silverSeconds: 180
+    reward: 0
+    goldReward: 2500
+    silverReward: 1000
+    bronzeReward: 500
+    isLocked: 1
+    isCompleted: 0
+    shortReason: 
+    longReason: 
+    shortDescription: 
+  - levelName: Haze
+    firstName: 
+    secondName: 
+    levelDescription: 
+    sceneName: 
+    trophyName: 
+    levelNumber: 11
+    requiredCar: 4
+    goldSeconds: 120
+    silverSeconds: 180
+    reward: 0
+    goldReward: 2500
+    silverReward: 1000
+    bronzeReward: 500
+    isLocked: 1
+    isCompleted: 0
+    shortReason: 
+    longReason: 
+    shortDescription: 
+  - levelName: Beach Party
+    firstName: 
+    secondName: 
+    levelDescription: 
+    sceneName: 
+    trophyName: 
+    levelNumber: 12
+    requiredCar: 5
+    goldSeconds: 120
+    silverSeconds: 180
+    reward: 0
+    goldReward: 2500
+    silverReward: 1000
+    bronzeReward: 500
+    isLocked: 1
+    isCompleted: 0
+    shortReason: 
+    longReason: 
+    shortDescription: 
+  - levelName: Night Rider
+    firstName: 
+    secondName: 
+    levelDescription: 
+    sceneName: 
+    trophyName: 
+    levelNumber: 13
+    requiredCar: 5
+    goldSeconds: 120
+    silverSeconds: 180
+    reward: 0
+    goldReward: 2500
+    silverReward: 1000
+    bronzeReward: 500
+    isLocked: 1
+    isCompleted: 0
+    shortReason: 
+    longReason: 
+    shortDescription: 
+  - levelName: Fun Blast
+    firstName: 
+    secondName: 
+    levelDescription: 
+    sceneName: 
+    trophyName: 
+    levelNumber: 14
+    requiredCar: 6
+    goldSeconds: 120
+    silverSeconds: 180
+    reward: 0
+    goldReward: 2500
+    silverReward: 1000
+    bronzeReward: 500
+    isLocked: 1
+    isCompleted: 0
+    shortReason: 
+    longReason: 
+    shortDescription: 
+  - levelName: Mist
+    firstName: 
+    secondName: 
+    levelDescription: 
+    sceneName: 
+    trophyName: 
+    levelNumber: 15
+    requiredCar: 6
+    goldSeconds: 120
+    silverSeconds: 180
+    reward: 0
+    goldReward: 2500
+    silverReward: 1000
+    bronzeReward: 500
+    isLocked: 1
+    isCompleted: 0
+    shortReason: 
+    longReason: 
+    shortDescription: 
+  skatePark:
+  - levelName: 
+    firstName: 
+    secondName: 
+    levelDescription: 
+    sceneName: 
+    trophyName: 
+    levelNumber: 0
+    requiredCar: 0
+    reward: 0
+    isLocked: 1
+    isCompleted: 1
+    shortReason: 
+    longReason: 
+    shortDescription: 
+  modeSelected: 1
+  levelSelected: 1
+  totalCoins: 100
+  huggy: 0
+  player: 0
+  soundOn: 1
+  musicOn: 1
+  showPrivacy: 1
+  openLevels: 0
+  shortDescription: 
+  controllsSettings: 0

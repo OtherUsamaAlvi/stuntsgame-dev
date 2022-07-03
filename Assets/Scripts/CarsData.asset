@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27231d8bd4bcd1b498a4261fb8b227dd, type: 3}
+  m_Name: CarsData
+  m_EditorClassIdentifier: 
+  carData:
+  - carIndex: 1
+    carName: Zegato
+    carDescription: Zegato
+    speed: 160
+    acceleration: 100
+    handeling: 70
+    isUsed: 1
+    isLocked: 0
+    price: 0
+  - carIndex: 2
+    carName: Megan
+    carDescription: Megan
+    speed: 180
+    acceleration: 140
+    handeling: 75
+    isUsed: 0
+    isLocked: 1
+    price: 1300
+  - carIndex: 3
+    carName: BMX
+    carDescription: BMX
+    speed: 200
+    acceleration: 160
+    handeling: 77
+    isUsed: 0
+    isLocked: 1
+    price: 1600
+  - carIndex: 4
+    carName: Ferrary
+    carDescription: Ferrary
+    speed: 220
+    acceleration: 200
+    handeling: 80
+    isUsed: 0
+    isLocked: 1
+    price: 2000
+  - carIndex: 5
+    carName: McLaran
+    carDescription: McLaran
+    speed: 240
+    acceleration: 240
+    handeling: 88
+    isUsed: 0
+    isLocked: 1
+    price: 2400
+  - carIndex: 6
+    carName: Lagoon
+    carDescription: Lagoon
+    speed: 260
+    acceleration: 260
+    handeling: 94
+    isUsed: 0
+    isLocked: 1
+    price: 2500
+  - carIndex: 7
+    carName: Porshay
+    carDescription: Porshay
+    speed: 280
+    acceleration: 290
+    handeling: 98.11
+    isUsed: 0
+    isLocked: 1
+    price: 2700
+  reward_Achieved: 0

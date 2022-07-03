@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 4aa2935b17678e74eb0d0b78acc2fca2
+timeCreated: 1469246356
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder028
+    100002: Cylinder030
+    100004: Cylinder031
+    100006: Cylinder032
+    100008: Line022
+    100010: Line024
+    100012: Line025
+    100014: Line026
+    100016: //RootNode
+    100018: Tube030
+    100020: Tube031
+    100022: Tube034
+    100024: Tube035
+    100026: Tube036
+    100028: Tube037
+    100030: Tube038
+    100032: Tube039
+    100034: wheel002
+    100036: wheel2
+    100038: wheel3
+    100040: wheel4
+    400000: Cylinder028
+    400002: Cylinder030
+    400004: Cylinder031
+    400006: Cylinder032
+    400008: Line022
+    400010: Line024
+    400012: Line025
+    400014: Line026
+    400016: //RootNode
+    400018: Tube030
+    400020: Tube031
+    400022: Tube034
+    400024: Tube035
+    400026: Tube036
+    400028: Tube037
+    400030: Tube038
+    400032: Tube039
+    400034: wheel002
+    400036: wheel2
+    400038: wheel3
+    400040: wheel4
+    2300000: Cylinder028
+    2300002: Cylinder030
+    2300004: Cylinder031
+    2300006: Cylinder032
+    2300008: Line022
+    2300010: Line024
+    2300012: Line025
+    2300014: Line026
+    2300016: Tube030
+    2300018: Tube031
+    2300020: Tube034
+    2300022: Tube035
+    2300024: Tube036
+    2300026: Tube037
+    2300028: Tube038
+    2300030: Tube039
+    3300000: Cylinder028
+    3300002: Cylinder030
+    3300004: Cylinder031
+    3300006: Cylinder032
+    3300008: Line022
+    3300010: Line024
+    3300012: Line025
+    3300014: Line026
+    3300016: Tube030
+    3300018: Tube031
+    3300020: Tube034
+    3300022: Tube035
+    3300024: Tube036
+    3300026: Tube037
+    3300028: Tube038
+    3300030: Tube039
+    4300000: Line022
+    4300002: Cylinder028
+    4300004: Tube030
+    4300006: Tube031
+    4300008: Line025
+    4300010: Cylinder031
+    4300012: Tube037
+    4300014: Tube036
+    4300016: Line024
+    4300018: Cylinder030
+    4300020: Tube035
+    4300022: Tube034
+    4300024: Line026
+    4300026: Tube039
+    4300028: Tube038
+    4300030: Cylinder032
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

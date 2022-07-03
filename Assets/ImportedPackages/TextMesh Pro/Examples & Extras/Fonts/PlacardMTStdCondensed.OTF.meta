@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9eaab86f6438bea4e8a094b3d7409b52
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Placard MT Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: af9f71ed56b29664fa2b53187273f89f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

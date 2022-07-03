@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Remote Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Remote Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9e95cd8f2da77dd45895e6e678145e9b
+  m_SerializeEntries:
+  - m_GUID: 82916d04f7802e54a9f8510cf6527313
+    m_Address: C11_Addressable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9814d9255e15e994ca1a0acf30cf0611
+    m_Address: Bee_Addressable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e7af7ff73f7884419150b51afd6edb9
+    m_Address: C04_Addressable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aaf2389c5beee024aa0ca76be1862b7c
+    m_Address: C21_Addressable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 61799d9e3dbec804c8408a362195eac8
+    m_Address: Chick_bouncy_Addressable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c9c0fed74d1d6b34c8f3cdb7f63788ba
+    m_Address: Dolphan_Addressable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17aaf7f6977e49942bfbff1ae9755409
+    m_Address: MaskTint02_Addressable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f335f1372a5665c4ca641f5674ada579
+    m_Address: MaskTint06_Addressable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 82db212e9b116ac42b70d0e4c23f8adf
+    m_Address: SeaDragoPolyArtBlueMarine_Addressable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e732df2ee930e374cb6dddb1decc044e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3c4443c5b621fc341bba287997d19965, type: 2}
+    - {fileID: 11400000, guid: b51d045c11bb7f847b96d6cd429e499a, type: 2}
